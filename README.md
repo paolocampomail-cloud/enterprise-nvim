@@ -184,10 +184,10 @@ Before installing this configuration, ensure you have the following installed:
    ```bash
    # Ubuntu/Debian
    sudo apt install ripgrep
-   
+
    # macOS
    brew install ripgrep
-   
+
    # Fedora
    sudo dnf install ripgrep
    ```
@@ -196,10 +196,10 @@ Before installing this configuration, ensure you have the following installed:
    ```bash
    # Ubuntu/Debian
    sudo apt install fd-find
-   
+
    # macOS
    brew install fd
-   
+
    # Fedora
    sudo dnf install fd-find
    ```
@@ -222,10 +222,10 @@ Before installing this configuration, ensure you have the following installed:
    ```bash
    # Ubuntu/Debian
    sudo apt install nasm
-   
+
    # macOS
    brew install nasm
-   
+
    # Fedora
    sudo dnf install nasm
    ```
@@ -443,9 +443,9 @@ Test the transparent background toggle:
    ```bash
    # Ubuntu/Debian
    sudo apt install xclip wl-clipboard
-   
+
    # macOS (already included)
-   
+
    # Fedora
    sudo dnf install xclip wl-clipboard
    ```
@@ -614,4 +614,4 @@ For issues or questions about this configuration:
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding!!! 🚀**
